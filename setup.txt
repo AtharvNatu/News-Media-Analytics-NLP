@@ -1,0 +1,10 @@
+nltk
+tensorflow
+keras
+tkinter
+customtkinter
+matplotlib
+numpy
+sklearn
+newspaper3k
+cleantext
